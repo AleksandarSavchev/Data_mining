@@ -68,7 +68,6 @@ public:
 };
 
 
-
 int main()
 {
 	string colors[10] = { "Blue", "Red", "Green", "BlueViolet","Cyan", "Magenta", "Orange", "Purple", "Yellow", "Gray" };
